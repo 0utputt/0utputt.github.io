@@ -11,7 +11,7 @@ Since roblox is banned in turkey (As i am writing this right now)
 
 <strong>Release Date:</strong> 10/10/2022
 
-<strong>Link:</strong> https://www.roblox.com/games/11233189032/Voxelize-BETA
+<strong>Link:</strong> [Play](https://www.roblox.com/games/11233189032/Voxelize-BETA)
 Voxelize is one of my oldest roblox projects, made in 2022. The game is inspired from teardown (which is a sandbox game)
 and uses voxel destruction mechanics made by myself. Although it could be a bit laggy while playing, its fun.
 
@@ -20,7 +20,7 @@ and uses voxel destruction mechanics made by myself. Although it could be a bit 
 
 <strong>Release Date:</strong> 19/08/2024
 
-<strong>Link:</strong> https://www.roblox.com/games/18971837206/Developer-Donate-BETA
+<strong>Link:</strong> [Play](https://www.roblox.com/games/18971837206/Developer-Donate-BETA)
 
 Developer Donate is one of my newest collabs (as i am writing this right now). The project aims for upcoming developers that want their games to be tested / reviewed. 
 People could donate to the developers that have a stand. Developers can promote their games there!
