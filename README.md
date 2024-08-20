@@ -12,6 +12,7 @@ Since roblox is banned in turkey (As i am writing this right now)
 <strong>Release Date:</strong> 10/10/2022
 
 <strong>Link:</strong> [Play](https://www.roblox.com/games/11233189032/Voxelize-BETA)
+
 Voxelize is one of my oldest roblox projects, made in 2022. The game is inspired from teardown (which is a sandbox game)
 and uses voxel destruction mechanics made by myself. Although it could be a bit laggy while playing, its fun.
 
