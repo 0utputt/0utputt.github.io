@@ -1,8 +1,15 @@
 # Hello, i am Output.
+<strong>My Skills:<strong>
+
 [![My Skills](https://skillicons.dev/icons?i=lua,html,css,python,blender,unity,robloxstudio&theme=light)](https://skillicons.dev)
 
+<strong>Currently learning:<strong>
+
+[![Currently Learning](https://skillicons.dev/icons?i=javascript&theme=light)](https://skillicons.dev)
+
+
 Hello, i am Output, I am from Turkey. I like coding, mostly in LUA (Roblox). I also make UGC in roblox, using Blender. I know a bit of python, csharp.
-I cannot work on my projects since roblox is banned in turkey (As i am writing this right now).
+I cannot work on my roblox projects since roblox is banned in turkey (As i am writing this right now).
 
 # My Projects
 ## Roblox
