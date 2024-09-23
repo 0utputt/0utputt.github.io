@@ -17,11 +17,10 @@ Voxelize is one of my oldest roblox projects, made in 2022. The game is inspired
 and uses voxel destruction mechanics made by myself. Although it could be a bit laggy while playing, its fun.
 
 ### Developer Donate
-<strong>Developers:</strong> RcRc, Me
+<strong>Developers:</strong> Me, Renix, Axsl, ghxsty, inviz, Javi, Shadow, Snowey, UncleRicky, Usef
 
 <strong>Release Date:</strong> 19/08/2024
 
 <strong>Link:</strong> [Play](https://www.roblox.com/games/18971837206/Developer-Donate-BETA)
 
-Developer Donate is one of my newest collabs (as i am writing this right now). The project aims for upcoming developers that want their games to be tested / reviewed. 
 People could donate to the developers that have a stand. Developers can promote their games there!
