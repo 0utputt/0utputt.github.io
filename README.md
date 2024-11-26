@@ -2,7 +2,6 @@
 [![My Skills](https://skillicons.dev/icons?i=lua,html,css,python,blender,unity,ruby,markdown,robloxstudio&theme=light)](https://skillicons.dev)
 
 Hello, i am Output, I am from Turkey. I like coding, mostly in LUA (Roblox). I also make UGC in roblox, using Blender. I know a bit of python and a small bit of csharp.
-I cannot work on my roblox projects since roblox is banned in turkey (As i am writing this right now).
 
 # Projects that I work on
 ### LaxLey Donate
