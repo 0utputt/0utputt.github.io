@@ -7,8 +7,6 @@ Hello, i am Output, I am from Turkey. I like coding, mostly in LUA (Roblox). I a
 ### LaxLey Donate
 <strong>Project Manager:</strong> LaxLey
 
-<strong>Developers:</strong> Me, LaxLey, RcRc, David, Dave, TekFlak, LIGHT GAMER, Sbtoysgaming, Perry
-
 <strong>My Role:</strong> Developer
 
 <strong>Release Date:</strong> Not released yet
